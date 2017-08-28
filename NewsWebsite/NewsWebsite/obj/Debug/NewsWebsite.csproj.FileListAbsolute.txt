@@ -1,0 +1,5 @@
+C:\Users\3com\Documents\Visual Studio 2012\Projects\NewsWebsite\NewsWebsite\bin\NewsWebsite.dll
+C:\Users\3com\Documents\Visual Studio 2012\Projects\NewsWebsite\NewsWebsite\bin\NewsWebsite.pdb
+C:\Users\3com\Documents\Visual Studio 2012\Projects\NewsWebsite\NewsWebsite\obj\Debug\NewsWebsite.dll
+C:\Users\3com\Documents\Visual Studio 2012\Projects\NewsWebsite\NewsWebsite\obj\Debug\NewsWebsite.pdb
+C:\Users\3com\Documents\Visual Studio 2012\Projects\NewsWebsite\NewsWebsite\obj\Debug\NewsWebsite.csprojResolveAssemblyReference.cache

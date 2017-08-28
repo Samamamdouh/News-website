@@ -1,0 +1,5 @@
+C:\Users\3com\Documents\Visual Studio 2012\Projects\WCM\WCM\bin\WCM.dll
+C:\Users\3com\Documents\Visual Studio 2012\Projects\WCM\WCM\bin\WCM.pdb
+C:\Users\3com\Documents\Visual Studio 2012\Projects\WCM\WCM\obj\Debug\WCM.csprojResolveAssemblyReference.cache
+C:\Users\3com\Documents\Visual Studio 2012\Projects\WCM\WCM\obj\Debug\WCM.dll
+C:\Users\3com\Documents\Visual Studio 2012\Projects\WCM\WCM\obj\Debug\WCM.pdb
